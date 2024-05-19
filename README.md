@@ -1,2 +1,0 @@
-# subdomain-wordlists
-subdomain-wordlists
